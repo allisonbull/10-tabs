@@ -1,9 +1,11 @@
 html {
     background-color: rgb(214, 166, 192);
+ font-family: "DM Sans";
 }
 
 code {
-    background-color:rgba(0, 0, 0, 0.2);
+    background-color:rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
 }
 
 .site-header {
@@ -55,4 +57,12 @@ code {
 .wrapper {
     max-width: 600px;
     margin: 0 auto;
+}
+
+.initial-header {
+    color:rgb(92, 170, 61)
+}
+
+.display-flex-text {
+    margin-bottom: 10;
 }
